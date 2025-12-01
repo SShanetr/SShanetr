@@ -43,7 +43,7 @@ I'm a graduate student in **Applied Geography & Environmental Studies**, passion
 
 ## 📬 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/sandra-c-shane-trovato-6b353968/)  
-- [Email Me](mailto:YOURGITHUBEMAIL@example.com)
+- [Email Me](mailto:sshanetr@uccs.com)
 
 
 
