@@ -31,15 +31,10 @@ I'm a graduate student in **Applied Geography & Environmental Studies**, passion
 
 ---
 
-## 🔹 GitHub Stats & Badges
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🔹 GitHub Badges
+
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2E7D32?style=for-the-badge&logo=esri&logoColor=white)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
-
 
 ## 📬 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/sandra-c-shane-trovato-6b353968/)  
